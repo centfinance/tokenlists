@@ -127,7 +127,7 @@
             "name": "BOPS",
             "symbol": "BOPS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/f82c20eced337438d4f0f5e78aa122eb4ff9f6b9/src/assets/images/tokens/bops.jpg"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/bops.jpg"
         },
         {
             "chainId": 1480,
