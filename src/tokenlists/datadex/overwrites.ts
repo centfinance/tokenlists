@@ -60,7 +60,7 @@ export const overwrites: OverwritesForList = {
     // }, //vCHARS AI
     '0x17Ba7a5603fdd6F07A1dA23c843e16e60987c7f7': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/BOP.jpg',
+        'https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/bops.jpg',
     }, //BOP
     '0xad881d0f795b07daad6a23389d5ab8fc596c1eaf': {
       logoURI:
